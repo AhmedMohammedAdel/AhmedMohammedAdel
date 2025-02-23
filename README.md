@@ -32,9 +32,9 @@ Always seeking to **merge security principles into software development**, ensur
   <img src="https://github-readme-stats.vercel.app/api?username=AhmedMohammedAdel&show_icons=true&theme=transparent&hide_border=true" alt="Ahmed's GitHub Stats" height="180px"/>
 </p>
 
-🚀 **Activity Graph (Interactive)**  
+🚀 **Activity Graph**  
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AhmedMohammedAdel&theme=github-light&hide_border=true" alt="Ahmed's GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AhmedMohammedAdel&theme=github-dark&hide_border=true" alt="Ahmed's GitHub Activity Graph" />
 </p>
 
 ---
