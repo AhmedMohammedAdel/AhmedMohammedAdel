@@ -42,9 +42,8 @@ Always seeking to **merge security principles into software development**, ensur
 
 ---
 
-## 📫 Let's Connect  
 ## 📫 Connect with Me
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=flat&logo=github)](https://github.com/ahmedmohammed)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/YOUR-LINKEDIN)  
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Red?style=flat&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/YOUR-THM)  
-[![Hack The Box](https://img.shields.io/badge/HackTheBox-9FEF00?style=flat&logo=hack-the-box&logoColor=black)](https://www.hackthebox.com/)  
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=flat&logo=github)](https://github.com/AhmedMohammedAdel)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/ahmedmohammed200429/)  
+[![Facebook](https://img.shields.io/badge/TryHackMe-Red?style=flat&logo=tryhackme&logoColor=white)](https://web.facebook.com/ahmedmohammedgraphicdesigner)  
+[![Email](https://img.shields.io/badge/Email-Gmail-red?style=flat&logo=gmail&logoColor=white)](mailto:ahmed2004292929@gmail.com)
