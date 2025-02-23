@@ -44,6 +44,6 @@ Always seeking to **merge security principles into software development**, ensur
 
 ## 📫 Let's Connect  
 🌐 **Portfolio:** [AhmedMohammed.dev](#)  
-💼 **LinkedIn:** [linkedin.com/in/AhmedMohammed](#)  
+💼 **LinkedIn:** [linkedin.com/in/AhmedMohammed]([#](https://www.linkedin.com/in/ahmedmohammed200429/))  
 🐙 **GitHub:** [github.com/AhmedMohammed](#)  
 ✉️ **Email:** [ahmed.mohammed@email.com](#)  
