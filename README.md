@@ -26,7 +26,7 @@ Always seeking to **merge security principles into software development**, ensur
 
 ## 📊 GitHub Stats & Activity  
 
-🔥 **Security-focused Development & Contributions**  
+🔥 **Development & Contributions**  
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedMohammedAdel&theme=transparent&hide_border=true" alt="Ahmed's GitHub Streak" height="180px"/>
   <img src="https://github-readme-stats.vercel.app/api?username=AhmedMohammedAdel&show_icons=true&theme=transparent&hide_border=true" alt="Ahmed's GitHub Stats" height="180px"/>
