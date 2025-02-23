@@ -1,4 +1,4 @@
-# 🚀 Ahmed Mohammed | Software Engineer & Cybersecurity Enthusiast 🔐
+# 🚀 Ahmed Mohammed | Software Engineer & Cybersecurity Enthusiast 🔐  
 
 🌍 **Bridging Software Development & Cybersecurity** | 🎯 **Secure Coding Advocate** | 💡 **AI & Security Researcher**  
 
@@ -16,20 +16,35 @@ Always seeking to **merge security principles into software development**, ensur
 ---
 
 ## 🔧 Tech Stack & Skills  
-- **Programming:** Java, Python, C++, C, JavaScript, PHP  
-- **Cybersecurity:** Penetration Testing, Cryptography, Secure Coding  
-- **Databases:** MySQL, MongoDB.  
-- **Cloud & DevOps:** Docker, AWS, Linux Server Security  
+
+🚀 **Languages:** Java, Python, C++, C, JavaScript, PHP  
+🛡 **Cybersecurity:** Penetration Testing, Cryptography, Secure Coding  
+📦 **Databases:** MySQL, MongoDB  
+☁️ **Cloud & DevOps:** Docker, AWS, Linux Server Security  
 
 ---
 
 ## 📊 GitHub Stats & Activity  
 
 🔥 **Security-focused Development & Contributions**  
-![Ahmed's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AhmedMohammedAdel&theme=radical&hide_border=true)  
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedMohammedAdel&theme=radical&hide_border=true" alt="Ahmed's GitHub Streak" />
+</p>
 
-![Ahmed's GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedMohammedAdel&layout=compact&theme=radical&hide_border=true)  
+📌 **Most Used Languages**  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedMohammedAdel&layout=compact&theme=radical&hide_border=true" alt="Ahmed's GitHub Languages" />
+</p>
 
+📈 **Overall GitHub Stats**  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AhmedMohammedAdel&show_icons=true&theme=radical&hide_border=true" alt="Ahmed's GitHub Stats" />
+</p>
+
+🚀 **Activity Graph (Interactive)**  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AhmedMohammedAdel&theme=radical&hide_border=true" alt="Ahmed's GitHub Activity Graph" />
+</p>
 
 ---
 
@@ -42,5 +57,15 @@ Always seeking to **merge security principles into software development**, ensur
 
 ---
 
-## 📫 Connect with Me
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=flat&logo=github)](https://github.com/AhmedMohammedAdel)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/ahmedmohammed200429/)  [![Email](https://img.shields.io/badge/Email-Gmail-red?style=flat&logo=gmail&logoColor=white)](mailto:ahmed2004292929@gmail.com)
+## 📫 Connect with Me  
+<p align="center">
+  <a href="https://github.com/AhmedMohammedAdel">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" alt="GitHub">
+  </a>
+  <a href="https://www.linkedin.com/in/ahmedmohammed200429/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+  </a>
+  <a href="mailto:ahmed2004292929@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
