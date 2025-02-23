@@ -18,18 +18,18 @@ Always seeking to **merge security principles into software development**, ensur
 ## 🔧 Tech Stack & Skills  
 - **Programming:** Java, Python, C++, C, JavaScript, PHP  
 - **Cybersecurity:** Penetration Testing, Cryptography, Secure Coding  
-- **Databases:** MySQL, MongoDB, PostgreSQL  
-- **Tools:** Metasploit, Wireshark, Burp Suite, OWASP ZAP  
-- **Cloud & DevOps:** Docker, Kubernetes, AWS, Linux Server Security  
+- **Databases:** MySQL, MongoDB.  
+- **Cloud & DevOps:** Docker, AWS, Linux Server Security  
 
 ---
 
 ## 📊 GitHub Stats & Activity  
 
 🔥 **Security-focused Development & Contributions**  
+![Ahmed's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AhmedMohammedAdel&theme=radical&hide_border=true)  
 
-![Ahmed's GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=AhmedMohammed&theme=radical&hide_border=true)  
-![Ahmed's GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedMohammed&layout=compact&theme=radical&hide_border=true)  
+![Ahmed's GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedMohammedAdel&layout=compact&theme=radical&hide_border=true)  
+
 
 ---
 
