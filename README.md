@@ -28,32 +28,19 @@ Always seeking to **merge security principles into software development**, ensur
 
 🔥 **Security-focused Development & Contributions**  
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedMohammedAdel&theme=radical&hide_border=true" alt="Ahmed's GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedMohammedAdel&theme=transparent&hide_border=true" alt="Ahmed's GitHub Streak" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AhmedMohammedAdel&show_icons=true&theme=transparent&hide_border=true" alt="Ahmed's GitHub Stats" height="180px"/>
 </p>
 
 📌 **Most Used Languages**  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedMohammedAdel&layout=compact&theme=radical&hide_border=true" alt="Ahmed's GitHub Languages" />
-</p>
-
-📈 **Overall GitHub Stats**  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AhmedMohammedAdel&show_icons=true&theme=radical&hide_border=true" alt="Ahmed's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedMohammedAdel&layout=compact&theme=transparent&hide_border=true" alt="Ahmed's GitHub Languages" height="180px"/>
 </p>
 
 🚀 **Activity Graph (Interactive)**  
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AhmedMohammedAdel&theme=radical&hide_border=true" alt="Ahmed's GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AhmedMohammedAdel&theme=github-light&hide_border=true" alt="Ahmed's GitHub Activity Graph" />
 </p>
-
----
-
-## 🛡️ Cybersecurity Projects  
-🔐 **[Secure Login System with MFA](#)** – Implemented **Multi-Factor Authentication (MFA)** using TOTP.  
-🚀 **[AI-Based Malware Detection](#)** – Machine Learning model to detect malware in files.  
-🛠 **[Web App Pentesting Toolkit](#)** – Automated security scanner for web vulnerabilities.  
-
-📌 **More projects coming soon!**  
 
 ---
 
